@@ -47,8 +47,6 @@ I enjoy turning complex business or technical problems into reliable, maintainab
 | **[FDF](https://github.com/canrefih/FDF)** | 3D projection, rasterization and event-driven graphics |
 | **[Face Detector](https://github.com/canrefih/Face-Detector)** | Computer vision and image processing |
 
-> **Note:** `webserv` is intentionally not listed here while the team project is under active development.
-
 ## Professional experience
 
 **RPA Consultant / Co-Expert — ASSISTT**
