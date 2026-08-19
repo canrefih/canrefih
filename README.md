@@ -1,4 +1,4 @@
-# Can Refik Hizal
+# Refih CAN
 
 ### M.Sc. Artificial Intelligence · Software Engineer · RPA & Automation
 
