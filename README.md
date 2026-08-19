@@ -1,40 +1,82 @@
 # Can Refik Hizal
 
-**AI Engineer · Software Engineer · Automation & RPA**
+### M.Sc. Artificial Intelligence · Software Engineer · RPA & Automation
 
-I build software at the intersection of **AI, backend engineering, automation, and systems programming**. My work ranges from computer vision and machine learning experiments to low-level Unix projects and production-oriented application development.
+AI and software engineer based in **Lausanne, Switzerland**, with a background spanning **AI/ML, software development, automation/RPA, and systems programming**.
 
-## What I work with
+I enjoy turning complex business or technical problems into reliable, maintainable software — from automation workflows and AI-powered tools to low-level Unix systems.
 
-- 🤖 **AI / ML** — computer vision, classification, optimization, algorithmic problem solving
-- ⚙️ **Software Engineering** — C/C++, C#, Python, backend and application development
-- 🐧 **Systems** — Unix processes, IPC, file descriptors, memory management, networking
-- 🔁 **Automation / RPA** — workflow automation and business-process tooling
-- 🧪 **Engineering Practices** — Git, CI/CD, testing, documentation, clean repository structure
+## About me
 
-## Featured work
+- 🎓 **M.Sc. Artificial Intelligence** — Bahcesehir University
+- 🎓 **B.Sc. Software Engineering** — Karadeniz Technical University
+- 💻 **42 Lausanne** — intensive software engineering program, 2025–present
+- 🤖 Professional experience in **RPA consulting, automation analysis, solution design and development**
+- 🌍 Turkish · English (C1) · French (B1) · German (A2)
 
-| Project | Focus |
+## Technical focus
+
+**Languages**
+
+`Python` · `C` · `C++` · `C#` · `Java` · `JavaScript` · `SQL` · `Bash`
+
+**AI / Data**
+
+`Machine Learning` · `LLM` · `NLP` · `Computer Vision` · `PyTorch` · `TensorFlow` · `NumPy` · `Pandas` · `SciPy`
+
+**Automation / RPA**
+
+`UiPath` · `Robusta` · `Automation Anywhere` · `n8n` · `Process Mining` · `LLMOps`
+
+**Systems / Infrastructure**
+
+`Linux` · `Docker` · `Nginx` · `Unix IPC` · `Networking` · `Git` · `CI/CD`
+
+**Data / Platforms**
+
+`PostgreSQL` · `MySQL` · `MS SQL` · `Elasticsearch` · `Kibana` · `Power BI` · `Tableau`
+
+## Selected engineering work
+
+| Project | Engineering focus |
 | --- | --- |
-| **minishell** | Unix shell implementation, processes, pipes, redirections |
-| **miniRT** | CPU ray tracing, geometry, rendering pipeline |
-| **Inception** | Dockerized infrastructure and service orchestration |
-| **Pipex** | Unix IPC, process execution and file descriptors |
-| **FDF** | 3D projection, graphics and rasterization |
-| **Face Detector** | Computer vision and image processing |
+| **[minishell](https://github.com/canrefih/minishell)** | Unix processes, pipes, redirections, signals and shell architecture |
+| **[miniRT](https://github.com/canrefih/minirt)** | Ray tracing, geometry, rendering pipeline and graphics |
+| **[Inception](https://github.com/canrefih/inception)** | Docker, Linux infrastructure, Nginx and service orchestration |
+| **[Pipex](https://github.com/canrefih/Pipex)** | Unix IPC, process execution and file descriptors |
+| **[FDF](https://github.com/canrefih/FDF)** | 3D projection, rasterization and event-driven graphics |
+| **[Face Detector](https://github.com/canrefih/Face-Detector)** | Computer vision and image processing |
 
-## Engineering philosophy
+> **Note:** `webserv` is intentionally not listed here while the team project is under active development.
 
-> Build it, understand it, test it, document it.
+## Professional experience
 
-I prefer small, focused changes, explicit interfaces, reproducible builds, and repositories that make the engineering decisions easy to understand.
+**RPA Consultant / Co-Expert — ASSISTT**
 
-## Current focus
+Analyzed, designed, developed and maintained automation solutions using Python, C#, JavaScript, SQL, UiPath and Robusta. Delivered **12–15 automation processes annually** across different complexity levels and contributed **120+ person-days of annual value** through independent analysis and development.
+
+**RPA Consultant — CONSULTA**
+
+Led cross-functional automation projects and client relationships using UiPath, Automation Anywhere, Python and C#. Delivered **13 automation processes in 9 months** while independently managing analysis and development.
+
+## Engineering principles
+
+- Understand the system before optimizing it.
+- Prefer simple architectures and explicit interfaces.
+- Automate repetitive work and make builds reproducible.
+- Treat documentation and tests as part of the engineering work.
+- Keep changes focused, reviewable and easy to maintain.
+
+## Currently learning / building
 
 **AI engineering · software architecture · automation · distributed systems · production-quality tooling**
 
+## Beyond code
+
+🤿 SSI-certified scuba diving · 🏂 Snowboarding · 🥾 Trekking · 🎨 Painting · 💪 Fitness
+
 ---
 
-### Let's connect
+📍 Lausanne, Switzerland
 
-📫 Open to interesting engineering, AI, automation, and software-development opportunities.
+📫 **refihcan@gmail.com**
