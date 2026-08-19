@@ -4,13 +4,13 @@
 
 AI and software engineer based in **Lausanne, Switzerland**, with a background spanning **AI/ML, software development, automation/RPA, and systems programming**.
 
-I enjoy turning complex business or technical problems into reliable, maintainable software — from automation workflows and AI-powered tools to low-level Unix systems.
+I enjoy turning complex business or technical problems into reliable, maintainable software, from automation workflows and AI-powered tools to low-level Unix systems.
 
 ## About me
 
-- 🎓 **M.Sc. Artificial Intelligence** — Bahcesehir University
-- 🎓 **B.Sc. Software Engineering** — Karadeniz Technical University
-- 💻 **42 Lausanne** — intensive software engineering program, 2025–present
+- 🎓 **M.Sc. Artificial Intelligence** - Bahcesehir University
+- 🎓 **B.Sc. Software Engineering** - Karadeniz Technical University
+- 💻 **42 Lausanne** - intensive software engineering program, 2025–present
 - 🤖 Professional experience in **RPA consulting, automation analysis, solution design and development**
 - 🌍 Turkish · English (C1) · French (B1) · German (A2)
 
@@ -49,11 +49,11 @@ I enjoy turning complex business or technical problems into reliable, maintainab
 
 ## Professional experience
 
-**RPA Consultant / Co-Expert — ASSISTT**
+**RPA Consultant / Co-Expert - ASSISTT**
 
 Analyzed, designed, developed and maintained automation solutions using Python, C#, JavaScript, SQL, UiPath and Robusta. Delivered **12–15 automation processes annually** across different complexity levels and contributed **120+ person-days of annual value** through independent analysis and development.
 
-**RPA Consultant — CONSULTA**
+**RPA Consultant - CONSULTA**
 
 Led cross-functional automation projects and client relationships using UiPath, Automation Anywhere, Python and C#. Delivered **13 automation processes in 9 months** while independently managing analysis and development.
 
