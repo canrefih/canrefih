@@ -14,27 +14,29 @@ I enjoy turning complex business or technical problems into reliable, maintainab
 - 🤖 Professional experience in **RPA consulting, automation analysis, solution design and development**
 - 🌍 Turkish · English (C1) · French (B1) · German (A2)
 
-## Technical focus
+## Technical Focus
 
-**Languages**
+**Programming:** `Python` · `C` · `C++`
 
-`Python` · `C` · `C++` · `C#` · `Java` · `JavaScript` · `SQL` · `Bash`
+**AI & Machine Learning:** `Machine Learning` · `LLM` · `NLP` · `Computer Vision` · `PyTorch` · `TensorFlow`
 
-**AI / Data**
+**Systems & Infrastructure:** `Linux` · `Bash/Shell` · `Unix` · `Docker` · `Nginx`
 
-`Machine Learning` · `LLM` · `NLP` · `Computer Vision` · `PyTorch` · `TensorFlow` · `NumPy` · `Pandas` · `SciPy`
+**Automation:** `RPA` · `UiPath` · `Robusta` · `Automation Anywhere` · `n8n`
 
-**Automation / RPA**
+**Data & Databases:** `SQL` · `PostgreSQL` · `MySQL` · `MS SQL` · `Elasticsearch`
 
-`UiPath` · `Robusta` · `Automation Anywhere` · `n8n` · `Process Mining` · `LLMOps`
+## Additional Technical Skills
 
-**Systems / Infrastructure**
+**Programming:** `C#` · `Java` · `JavaScript` · `PHP`
 
-`Linux` · `Docker` · `Nginx` · `Unix IPC` · `Networking` · `Git` · `CI/CD`
+**AI & Data:** `LLMOps` · `SciPy` · `NumPy` · `Pandas` · `NLTK` · `Matplotlib` · `SPSS` · `Image Processing`
 
-**Data / Platforms**
+**Web & Mobile:** `HTML` · `CSS` · `jQuery` · `JSON` · `Flutter` · `iOS/Xcode` · `Android/Kotlin`
 
-`PostgreSQL` · `MySQL` · `MS SQL` · `Elasticsearch` · `Kibana` · `Power BI` · `Tableau`
+**Data Visualization:** `Kibana` · `Tableau` · `Power BI`
+
+**Tools & Platforms:** `Git` · `VS Code` · `Visual Studio` · `Google Colab` · `SAP`
 
 ## Selected engineering work
 
