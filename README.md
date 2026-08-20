@@ -1,6 +1,6 @@
-# Refih CAN
-
-### Software Engineer · AI/ML · Systems & Automation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/canrefih/canrefih/main/profile-banner.svg" alt="Refih CAN - Software Engineer, AI/ML, Systems and Automation" width="100%" />
+</p>
 
 AI and software engineer based in **Lausanne, Switzerland**, with a background spanning **AI/ML, software development, automation/RPA, and systems programming**.
 
