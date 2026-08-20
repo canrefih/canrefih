@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Refih CAN Software Engineer Python C C++ AI and Automation">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#30363d" stroke-width="1" opacity="0.35"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="280" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="280" rx="18" fill="url(#grid)"/>
+  <circle cx="1040" cy="55" r="120" fill="#58a6ff" opacity="0.07"/>
+  <circle cx="1120" cy="220" r="150" fill="#bc8cff" opacity="0.05"/>
+  <text x="70" y="105" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">REFIH CAN</text>
+  <text x="70" y="150" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="23">Software Engineer · AI/ML · Automation</text>
+  <text x="70" y="200" fill="#58a6ff" font-family="monospace" font-size="19">Python · C · C++ · AI · Automation</text>
+  <text x="70" y="235" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="16">Lausanne, Switzerland</text>
+</svg>
