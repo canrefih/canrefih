@@ -40,6 +40,13 @@ I enjoy turning complex business or technical problems into reliable, maintainab
 
 **Tools & Platforms:** `Git` · `VS Code` · `Visual Studio` · `Google Colab` · `SAP`
 
+## Research & Publications
+
+📄 **[Enhancing Call Center Efficiency Through Mail Parsing Using Natural Language Processing and Robotic Process Automation](https://tez.yok.gov.tr/UlusalTezMerkezi/)**  
+*Master's Thesis · Bahcesehir University · 2024 · Thesis No. 876069*
+
+Research on combining **Natural Language Processing (NLP)** and **Robotic Process Automation (RPA)** to improve call-center email processing efficiency through automated parsing, information extraction, classification and workflow automation.
+
 ## Selected Engineering Work
 
 ### Systems & Infrastructure
