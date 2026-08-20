@@ -1,10 +1,12 @@
 # Refih CAN
 
-### M.Sc. Artificial Intelligence · Software Engineer · RPA & Automation
+### Software Engineer · AI/ML · Systems & Automation
 
 AI and software engineer based in **Lausanne, Switzerland**, with a background spanning **AI/ML, software development, automation/RPA, and systems programming**.
 
 I enjoy turning complex business or technical problems into reliable, maintainable software, from automation workflows and AI-powered tools to low-level Unix systems.
+
+**[LinkedIn](https://ch.linkedin.com/in/refih-can-55640b19a)** · **[GitHub](https://github.com/canrefih)** · **refihcan@gmail.com**
 
 ## About me
 
@@ -38,18 +40,29 @@ I enjoy turning complex business or technical problems into reliable, maintainab
 
 **Tools & Platforms:** `Git` · `VS Code` · `Visual Studio` · `Google Colab` · `SAP`
 
-## Selected engineering work
+## Selected Engineering Work
+
+### Systems & Infrastructure
 
 | Project | Engineering focus |
 | --- | --- |
 | **[minishell](https://github.com/canrefih/minishell)** | Unix processes, pipes, redirections, signals and shell architecture |
-| **[miniRT](https://github.com/canrefih/minirt)** | Ray tracing, geometry, rendering pipeline and graphics |
-| **[Inception](https://github.com/canrefih/inception)** | Docker, Linux infrastructure, Nginx and service orchestration |
-| **[Pipex](https://github.com/canrefih/Pipex)** | Unix IPC, process execution and file descriptors |
+| **[webserv](https://github.com/canrefih/webserv)** | C++98 HTTP server, sockets, `poll()`, HTTP parsing, routing and configuration |
+| **[Inception](https://github.com/canrefih/inception)** | Docker, Linux infrastructure, Nginx, networking, TLS, volumes and service orchestration |
+| **[Pipex](https://github.com/canrefih/Pipex)** | Unix IPC, process execution, pipes, file descriptors and heredocs |
 | **[FDF](https://github.com/canrefih/FDF)** | 3D projection, rasterization and event-driven graphics |
-| **[Face Detector](https://github.com/canrefih/Face-Detector)** | Computer vision and image processing |
+| **[miniRT](https://github.com/canrefih/minirt)** | Ray tracing, geometry, rendering pipeline and graphics |
 
-## Professional experience
+### AI / Computer Vision
+
+| Project | Engineering focus |
+| --- | --- |
+| **[Face Detector](https://github.com/canrefih/Face-Detector)** | Computer vision and image processing |
+| **[Plate Detector](https://github.com/canrefih/Plate-Detector)** | Image processing and object/plate detection |
+| **[K-NN Algorithm](https://github.com/canrefih/K-NN-Algoritm)** | Classification and machine-learning fundamentals |
+| **[Optimization Problem - Genetic Algorithm](https://github.com/canrefih/Optimization-Problem-Genetic-Algorithm)** | Heuristic optimization and algorithmic problem solving |
+
+## Professional Experience
 
 **RPA Consultant / Co-Expert - ASSISTT**
 
@@ -59,7 +72,7 @@ Analyzed, designed, developed and maintained automation solutions using Python, 
 
 Led cross-functional automation projects and client relationships using UiPath, Automation Anywhere, Python and C#. Delivered **13 automation processes in 9 months** while independently managing analysis and development.
 
-## Engineering principles
+## Engineering Principles
 
 - Understand the system before optimizing it.
 - Prefer simple architectures and explicit interfaces.
@@ -67,11 +80,11 @@ Led cross-functional automation projects and client relationships using UiPath, 
 - Treat documentation and tests as part of the engineering work.
 - Keep changes focused, reviewable and easy to maintain.
 
-## Currently learning / building
+## Currently Learning / Building
 
 **AI engineering · software architecture · automation · distributed systems · production-quality tooling**
 
-## Beyond code
+## Beyond Code
 
 🤿 SSI-certified scuba diving · 🏂 Snowboarding · 🥾 Trekking · 🎨 Painting · 💪 Fitness
 
