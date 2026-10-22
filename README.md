@@ -4,17 +4,17 @@
 
 AI and software engineer based in **Lausanne, Switzerland**, with a background spanning **AI/ML, software development, automation/RPA, and systems programming**.
 
-I enjoy turning complex business or technical problems into reliable, maintainable software, from automation workflows and AI-powered tools to low-level Unix systems.
+I enjoy turning complex business or technical problems into reliable, maintainable software, from automation workflows and AI-powered tools.
 
 **[LinkedIn](https://ch.linkedin.com/in/refih-can-55640b19a)** · **[GitHub](https://github.com/canrefih)** · **refihcan@gmail.com**
 
 ## About me
 
-- 🎓 **M.Sc. Artificial Intelligence** - Bahcesehir University
-- 🎓 **B.Sc. Software Engineering** - Karadeniz Technical University
-- 💻 **42 Lausanne** - intensive software engineering program, 2025–present
-- 🤖 Professional experience in **RPA consulting, automation analysis, solution design and development**
-- 🌍 Turkish · English (C1) · French (B1) · German (A2)
+-  **M.Sc. Artificial Intelligence** - Bahcesehir University
+-  **B.Sc. Software Engineering** - Karadeniz Technical University
+-  **42 Lausanne** - intensive software engineering program, 2025–present
+-  Professional experience in **RPA, software and AI solutions development**
+-  Turkish · English (C1) · French (B1) · German (A2)
 
 ## Technical Focus
 
@@ -42,7 +42,7 @@ I enjoy turning complex business or technical problems into reliable, maintainab
 
 ## Research & Publications
 
-📄 **[Enhancing Call Center Efficiency Through Mail Parsing Using Natural Language Processing and Robotic Process Automation](https://tez.yok.gov.tr/UlusalTezMerkezi/)**  
+**[Enhancing Call Center Efficiency Through Mail Parsing Using Natural Language Processing and Robotic Process Automation](https://tez.yok.gov.tr/UlusalTezMerkezi/)**  
 *Master's Thesis · Bahcesehir University · 2024 · Thesis No. 876069*
 
 Research on combining **Natural Language Processing (NLP)** and **Robotic Process Automation (RPA)** to improve call-center email processing efficiency through automated parsing, information extraction, classification and workflow automation.
@@ -64,8 +64,8 @@ Research on combining **Natural Language Processing (NLP)** and **Robotic Proces
 
 | Project | Engineering focus |
 | --- | --- |
-| **[Face Detector](https://github.com/canrefih/Face-Detector)** | Computer vision and image processing |
-| **[Plate Detector](https://github.com/canrefih/Plate-Detector)** | Image processing and object/plate detection |
+| **[AI Research Assistant](https://github.com/canrefih/ai-research-assistant)** | A research assistant RAG system (Still working) |
+| **[Physics Informed Edge AI](https://github.com/canrefih/physics-informed-edge-ai)** | Prototype that forecasts synthetic thermal drift from temperature and vibration windows |
 | **[K-NN Algorithm](https://github.com/canrefih/K-NN-Algoritm)** | Classification and machine-learning fundamentals |
 | **[Optimization Problem - Genetic Algorithm](https://github.com/canrefih/Optimization-Problem-Genetic-Algorithm)** | Heuristic optimization and algorithmic problem solving |
 
@@ -93,10 +93,10 @@ Led cross-functional automation projects and client relationships using UiPath, 
 
 ## Beyond Code
 
-🤿 SSI-certified scuba diving · 🏂 Snowboarding · 🥾 Trekking · 🎨 Painting · 💪 Fitness
+SSI-certified scuba diving · Snowboarding · Trekking · Painting · Fitness
 
 ---
 
 📍 Lausanne, Switzerland
 
-📫 **refihcan@gmail.com**
+**refihcan@gmail.com**
