@@ -73,7 +73,7 @@ Research on combining **Natural Language Processing (NLP)** and **Robotic Proces
 
 **RPA Consultant / Co-Expert - ASSISTT**
 
-Analyzed, designed, developed and maintained automation solutions using Python, C#, JavaScript, SQL, UiPath and Robusta. Delivered **12–15 automation processes annually** across different complexity levels and contributed **120+ person-days of annual value** through independent analysis and development.
+Developed and optimized enterprise automation solutions using Python, C#, JavaScript, SQL, UiPath, and Robusta, combining RPA with AI/ML-driven approaches to streamline business workflows. Delivered **12–15 automation processes annually** across different complexity levels and contributed **120+ person-days of annual value** through independent analysis and development.
 
 **RPA Consultant - CONSULTA**
 
