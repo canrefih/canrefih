@@ -60,13 +60,13 @@ Research on combining **Natural Language Processing (NLP)** and **Robotic Proces
 | **[FDF](https://github.com/canrefih/FDF)** | 3D projection, rasterization and event-driven graphics |
 | **[miniRT](https://github.com/canrefih/minirt)** | Ray tracing, geometry, rendering pipeline and graphics |
 
-### AI / Computer Vision
+### AI / Machine Learning
 
 | Project | Engineering focus |
 | --- | --- |
 | **[AI Research Assistant](https://github.com/canrefih/ai-research-assistant)** | A research assistant RAG system (Still working) |
 | **[Physics Informed Edge AI](https://github.com/canrefih/physics-informed-edge-ai)** | Prototype that forecasts synthetic thermal drift from temperature and vibration windows |
-| **[K-NN Algorithm](https://github.com/canrefih/K-NN-Algoritm)** | Classification and machine-learning fundamentals |
+| **[Drug Review](https://github.com/canrefih/drug-review-benchmark)** | Drug review classification using Deep Learning (DistilBERT) and classical ML |
 | **[Optimization Problem - Genetic Algorithm](https://github.com/canrefih/Optimization-Problem-Genetic-Algorithm)** | Heuristic optimization and algorithmic problem solving |
 
 ## Professional Experience
